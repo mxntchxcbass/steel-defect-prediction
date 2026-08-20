@@ -19,7 +19,7 @@ pip install pandas numpy scikit-learn xgboost optuna shap
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-- **팀명**: 10조 (제조 트랙)
+- **팀명**: 10조 (제조 트랙) · 5인 · 임** 튜터
 
 | 최지호 |
 |:---:|
